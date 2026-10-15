@@ -51,9 +51,11 @@ ggsave(filename = "figs/barplot.png",
        height = 6,
        dpi = 300)
 
+list.files("figs")
 
-
-
+# Project development notes
+# Analysis completed
+# Next steps - explore regional differences in murder rates
 
 
 
